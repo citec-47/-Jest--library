@@ -2,7 +2,7 @@
 const stringReverse = require('./stringReverse.js')
 const calculate = require('./calculating.js')
 const characters = require('./characteristic.js')
-const stringFromOneToten = require('./strbtw1and10.js')
+const stringFromOneToten = require('./stringOneTo.js')
 const LengthOfstring = require('./lnghtOfstring.js')
 
 it('projects', ()=>{
